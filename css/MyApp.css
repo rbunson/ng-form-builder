@@ -1,0 +1,16 @@
+﻿        fieldset
+        {
+            max-width: 500px;
+        }
+        
+        
+        .form-horizontal .form-group
+        {
+            margin-left: 0;
+            margin-right: 0;
+        }
+        
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak
+        {
+            display: none !important;
+        }

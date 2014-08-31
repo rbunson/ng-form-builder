@@ -1,0 +1,13 @@
+<div class="container" ng-controller="myAppCtrl" >
+    <div fb-topnav></div>
+    <form name="myForm" class="form-horizontal"  novalidate>
+        <div fb-fieldset legend='personSection' >
+            <div ng-repeat="field in allFields" >
+                <div fb-field  field="field"></div>
+            </div>
+        </div>
+
+        <div fb-buttons></div>
+    </form>
+    
+</div>
