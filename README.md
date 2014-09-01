@@ -1,7 +1,7 @@
 ng-form-builder
 ===============
 
-Set of Angularjs directives to build data entry forms w/validation using metadata.  Striving to minimize the amount of markup, while retaining the inherent flexibility and power of Angularjs.
+Set of Angularjs directives, and demo app, to build data entry forms w/validation using metadata.  Striving to minimize the amount of markup, while retaining the inherent flexibility and power of Angularjs.
 
 By taking a relatively extreme approach toward the DRY (don't repeat yourself) principle, we can
 - enable application developers to take more of a what, rather than how, approach toward markup
